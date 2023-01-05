@@ -1,0 +1,98 @@
+{
+  "subjects": [
+    {
+      "name": "English"
+    },
+    {
+      "name": "Math"
+    },
+    {
+      "name": "Language"
+    },
+    {
+      "name": "O.E"
+    },
+    {
+      "name": "Yoga"
+    },
+    {
+      "name": "Health n Awareness"
+    },
+    {
+      "name": "FOC"
+    },
+    {
+      "name": "C programming"
+    },
+    {
+      "name": "Lunch"
+    }
+  ],
+  "timings": [
+    {
+      "string": "9:00 AM-9:55 AM"
+    },
+    {
+      "string": "10:00 AM-10:55 AM"
+    },
+    {
+      "string": "11:00 AM-11:55 AM"
+    },
+    {
+      "string": "12:00 PM-12:55 PM"
+    },
+    {
+      "string": "1:00 PM-1:55 PM"
+    },
+    {
+      "string": "2:00 PM-2:55 PM"
+    },
+    {
+      "string": "3:00 PM-3:55 PM"
+    },
+    {
+      "string": "4:00 PM-4:55 PM"
+    }
+  ],
+  "sunday": [],
+  "monday": [
+    {
+      "subject": {
+        "name": "English"
+      },
+      "timing": {
+        "string": "9:00 AM-9:55 AM"
+      }
+    }
+  ],
+  "tuesday": [],
+  "wednesday": [],
+  "thursday": [
+    {
+      "subject": {
+        "name": "Python"
+      },
+      "timing": {
+        "string": "9:00 AM-10:00 AM"
+      }
+    },
+    {
+      "subject": {
+        "name": "C programming"
+      },
+      "timing": {
+        "string": "10:00 AM-11:00 AM"
+      }
+    },
+    {
+      "subject": {
+        "name": "English"
+      },
+      "timing": {
+        "string": "11:10 AM-11:30 AM"
+      }
+    }
+  ],
+  "friday": [],
+  "saturday": []
+}

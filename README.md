@@ -1,2 +1,1 @@
-# Hello there!
-This is where I'll be putting my college projects.
+Hello there! My college stuff goes here
